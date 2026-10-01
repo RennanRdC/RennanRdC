@@ -18,7 +18,7 @@ A creature-collector game that blends elemental characters with fast, Vampire Su
 
 - **Engine:** Unity
 - **Language:** C#
-- **Focus:** gameplay programming, game systems, shaders and shipping a complete game
+- **Focus:** gameplay programming, game systems and shipping a complete game
 
 ## 📫 Find me
 
