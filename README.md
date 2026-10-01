@@ -8,7 +8,7 @@ A creature-collector game that blends elemental characters with fast, Vampire Su
 
 **Available on:**
 
-- [Steam](STEAM_LINK_HERE)
+- [Steam](https://store.steampowered.com/app/3363560/Shard_Squad/)
 - [Nintendo Switch](https://www.nintendo.com/us/store/products/shard-squad-switch/)
 - [PlayStation](https://store.playstation.com/en-us/concept/10017013)
 - [Xbox](https://www.xbox.com/en-US/games/store/shard-squad/9P5WL628P8X6/0010)
