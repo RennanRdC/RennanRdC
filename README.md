@@ -1,4 +1,4 @@
-# Hi, I'm Rennan 👋
+# Hi, I'm Rennan Costa 👋
 
 **Unity developer** and indie game dev from Brazil, and the developer behind **Shard Squad**.
 
