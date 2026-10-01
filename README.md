@@ -4,7 +4,7 @@
 
 ## 🎮 Shard Squad
 
-A creature-collector game that blends elemental characters with fast, Vampire Survivors-style gameplay. Collect your squad, combine their powers and survive the horde.
+A creature-collector game that blends elemental characters with fast, Vampire Survivors-style gameplay.
 
 **Available on:**
 
@@ -13,7 +13,6 @@ A creature-collector game that blends elemental characters with fast, Vampire Su
 - [PlayStation](https://store.playstation.com/en-us/concept/10017013)
 - [Xbox](https://www.xbox.com/en-US/games/store/shard-squad/9P5WL628P8X6/0010)
 
-I built the game in Unity and C#, and I work with a Brazilian publisher on marketing and PR.
 
 ## 🛠️ What I work with
 
